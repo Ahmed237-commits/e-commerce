@@ -35,3 +35,5 @@ My-Next-Shop/
 │   └── script.js
 ├── images/
 └── README.md
+git clone https://github.com/Ahmed237-commits/e-commerce
+"This Project IS A Demo Porject"
